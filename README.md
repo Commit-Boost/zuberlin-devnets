@@ -1,1 +1,1 @@
-# rhea-devnets
+# ZuBerlin Commit Boost devnets
